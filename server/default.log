@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-06T23:09:34.732430Z</date>
+  <millis>1641510574732</millis>
+  <nanos>430000</nanos>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>logInfo</method>
+  <thread>17</thread>
+  <message>Added new user called: hi</message>
+</record>
+<record>
+  <date>2022-01-06T23:09:55.814983300Z</date>
+  <millis>1641510595814</millis>
+  <nanos>983300</nanos>
+  <sequence>1</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>logInfo</method>
+  <thread>17</thread>
+  <message>hi join channel 1</message>
+</record>
+<record>
+  <date>2022-01-06T23:10:15.910327300Z</date>
+  <millis>1641510615910</millis>
+  <nanos>327300</nanos>
+  <sequence>2</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>logInfo</method>
+  <thread>18</thread>
+  <message>Added new user called: ez</message>
+</record>
+<record>
+  <date>2022-01-06T23:10:18.032100600Z</date>
+  <millis>1641510618032</millis>
+  <nanos>100600</nanos>
+  <sequence>3</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>logInfo</method>
+  <thread>18</thread>
+  <message>ez join channel 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-06T23:16:14.423481700Z</date>
+  <millis>1641510974423</millis>
+  <nanos>481700</nanos>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>17</thread>
+  <message>Added new user called: mark</message>
+</record>
+<record>
+  <date>2022-01-06T23:16:23.582292300Z</date>
+  <millis>1641510983582</millis>
+  <nanos>292300</nanos>
+  <sequence>1</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>17</thread>
+  <message>mark join channel 1</message>
+</record>
+<record>
+  <date>2022-01-06T23:16:34.564723100Z</date>
+  <millis>1641510994564</millis>
+  <nanos>723100</nanos>
+  <sequence>2</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>18</thread>
+  <message>Added new user called: michał</message>
+</record>
+<record>
+  <date>2022-01-06T23:16:41.254627300Z</date>
+  <millis>1641511001254</millis>
+  <nanos>627300</nanos>
+  <sequence>3</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>18</thread>
+  <message>michał join channel 1</message>
+</record>
+<record>
+  <date>2022-01-06T23:16:53.272797100Z</date>
+  <millis>1641511013272</millis>
+  <nanos>797100</nanos>
+  <sequence>4</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>19</thread>
+  <message>Added new user called: krzyś</message>
+</record>
+<record>
+  <date>2022-01-06T23:16:54.425300900Z</date>
+  <millis>1641511014425</millis>
+  <nanos>300900</nanos>
+  <sequence>5</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>19</thread>
+  <message>krzyś join channel 2</message>
+</record>
+<record>
+  <date>2022-01-06T23:17:03.470328400Z</date>
+  <millis>1641511023470</millis>
+  <nanos>328400</nanos>
+  <sequence>6</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>removed thread called krzyś more info: Thread[Thread-2,5,main]</message>
+</record>
+<record>
+  <date>2022-01-06T23:17:19.815047600Z</date>
+  <millis>1641511039815</millis>
+  <nanos>47600</nanos>
+  <sequence>7</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>removed thread in catch method: michał more info: Thread[Thread-1,5,main]</message>
+</record>
+<record>
+  <date>2022-01-06T23:17:34.611840900Z</date>
+  <millis>1641511054611</millis>
+  <nanos>840900</nanos>
+  <sequence>8</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>20</thread>
+  <message>Added new user called: Halina</message>
+</record>
+<record>
+  <date>2022-01-06T23:17:37.179142700Z</date>
+  <millis>1641511057179</millis>
+  <nanos>142700</nanos>
+  <sequence>9</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>20</thread>
+  <message>Halina join channel 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-06T23:20:30.378041800Z</date>
+  <millis>1641511230378</millis>
+  <nanos>41800</nanos>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>17</thread>
+  <message>Added new user called: Marcin</message>
+</record>
+<record>
+  <date>2022-01-06T23:20:40.905082200Z</date>
+  <millis>1641511240905</millis>
+  <nanos>82200</nanos>
+  <sequence>1</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>17</thread>
+  <message>Marcin join channel 1</message>
+</record>
+<record>
+  <date>2022-01-06T23:22:29.245501100Z</date>
+  <millis>1641511349245</millis>
+  <nanos>501100</nanos>
+  <sequence>2</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>18</thread>
+  <message>Added new user called: czerkawski</message>
+</record>
+<record>
+  <date>2022-01-06T23:22:31.909326200Z</date>
+  <millis>1641511351909</millis>
+  <nanos>326200</nanos>
+  <sequence>3</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>18</thread>
+  <message>czerkawski join channel 1</message>
+</record>
+<record>
+  <date>2022-01-06T23:22:47.607790500Z</date>
+  <millis>1641511367607</millis>
+  <nanos>790500</nanos>
+  <sequence>4</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>19</thread>
+  <message>Added new user called: izo</message>
+</record>
+<record>
+  <date>2022-01-06T23:22:48.900652600Z</date>
+  <millis>1641511368900</millis>
+  <nanos>652600</nanos>
+  <sequence>5</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>19</thread>
+  <message>izo join channel 2</message>
+</record>
+<record>
+  <date>2022-01-06T23:22:54.601067700Z</date>
+  <millis>1641511374601</millis>
+  <nanos>67700</nanos>
+  <sequence>6</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>removed thread called czerkawski more info: Thread[Thread-1,5,main]</message>
+</record>
+<record>
+  <date>2022-01-06T23:23:09.347791900Z</date>
+  <millis>1641511389347</millis>
+  <nanos>791900</nanos>
+  <sequence>7</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>20</thread>
+  <message>Added new user called: qw</message>
+</record>
+<record>
+  <date>2022-01-06T23:23:09.348793700Z</date>
+  <millis>1641511389348</millis>
+  <nanos>793700</nanos>
+  <sequence>8</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>20</thread>
+  <message>Added new user called: izo</message>
+</record>
+<record>
+  <date>2022-01-06T23:23:10.923143700Z</date>
+  <millis>1641511390923</millis>
+  <nanos>143700</nanos>
+  <sequence>9</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>20</thread>
+  <message>izo join channel 2</message>
+</record>
+<record>
+  <date>2022-01-06T23:23:48.476031600Z</date>
+  <millis>1641511428476</millis>
+  <nanos>31600</nanos>
+  <sequence>10</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>21</thread>
+  <message>Added new user called: ee</message>
+</record>
+<record>
+  <date>2022-01-06T23:23:51.929914600Z</date>
+  <millis>1641511431929</millis>
+  <nanos>914600</nanos>
+  <sequence>11</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>21</thread>
+  <message>ee join channel 2</message>
+</record>
+<record>
+  <date>2022-01-06T23:24:18.675420400Z</date>
+  <millis>1641511458675</millis>
+  <nanos>420400</nanos>
+  <sequence>12</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>removed thread in catch method: ee more info: Thread[Thread-4,5,main]</message>
+</record>
+<record>
+  <date>2022-01-06T23:24:40.108450900Z</date>
+  <millis>1641511480108</millis>
+  <nanos>450900</nanos>
+  <sequence>13</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>removed thread in catch method: izo more info: Thread[Thread-3,5,main]</message>
+</record>
+<record>
+  <date>2022-01-06T23:24:42.051264600Z</date>
+  <millis>1641511482051</millis>
+  <nanos>264600</nanos>
+  <sequence>14</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>removed thread in catch method: izo more info: Thread[Thread-2,5,main]</message>
+</record>
+<record>
+  <date>2022-01-06T23:24:44.074821700Z</date>
+  <millis>1641511484074</millis>
+  <nanos>821700</nanos>
+  <sequence>15</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>removed thread in catch method: Marcin more info: Thread[Thread-0,5,main]</message>
+</record>
+<record>
+  <date>2022-01-06T23:24:47.259337700Z</date>
+  <millis>1641511487259</millis>
+  <nanos>337700</nanos>
+  <sequence>16</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>22</thread>
+  <message>Added new user called: lol</message>
+</record>
+<record>
+  <date>2022-01-06T23:24:47.836795900Z</date>
+  <millis>1641511487836</millis>
+  <nanos>795900</nanos>
+  <sequence>17</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>22</thread>
+  <message>lol join channel 1</message>
+</record>
+<record>
+  <date>2022-01-06T23:24:53.351783700Z</date>
+  <millis>1641511493351</millis>
+  <nanos>783700</nanos>
+  <sequence>18</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>23</thread>
+  <message>Added new user called: kizo</message>
+</record>
+<record>
+  <date>2022-01-06T23:24:55.196726800Z</date>
+  <millis>1641511495196</millis>
+  <nanos>726800</nanos>
+  <sequence>19</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>23</thread>
+  <message>kizo join channel 1</message>
+</record>
+<record>
+  <date>2022-01-06T23:25:04.240370200Z</date>
+  <millis>1641511504240</millis>
+  <nanos>370200</nanos>
+  <sequence>20</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>24</thread>
+  <message>Added new user called: koza</message>
+</record>
+<record>
+  <date>2022-01-06T23:25:04.241369800Z</date>
+  <millis>1641511504241</millis>
+  <nanos>369800</nanos>
+  <sequence>21</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>24</thread>
+  <message>Added new user called: kizo</message>
+</record>
+<record>
+  <date>2022-01-06T23:25:06.818511500Z</date>
+  <millis>1641511506818</millis>
+  <nanos>511500</nanos>
+  <sequence>22</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>24</thread>
+  <message>kizo join channel 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-06T23:28:04.121230600Z</date>
+  <millis>1641511684121</millis>
+  <nanos>230600</nanos>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>19</thread>
+  <message>Added new user called: hi</message>
+</record>
+<record>
+  <date>2022-01-06T23:28:07.047549300Z</date>
+  <millis>1641511687047</millis>
+  <nanos>549300</nanos>
+  <sequence>1</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>19</thread>
+  <message>hi join channel 1</message>
+</record>
+<record>
+  <date>2022-01-06T23:28:56.321447900Z</date>
+  <millis>1641511736321</millis>
+  <nanos>447900</nanos>
+  <sequence>2</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>20</thread>
+  <message>Added new user called: o</message>
+</record>
+<record>
+  <date>2022-01-06T23:29:03.582310800Z</date>
+  <millis>1641511743582</millis>
+  <nanos>310800</nanos>
+  <sequence>3</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>20</thread>
+  <message>Added new user called: hi</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-06T23:30:28.872212600Z</date>
+  <millis>1641511828872</millis>
+  <nanos>212600</nanos>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>17</thread>
+  <message>Added new user called: dupa</message>
+</record>
+<record>
+  <date>2022-01-06T23:30:30.298920400Z</date>
+  <millis>1641511830298</millis>
+  <nanos>920400</nanos>
+  <sequence>1</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>17</thread>
+  <message>dupa join channel 1</message>
+</record>
+<record>
+  <date>2022-01-06T23:30:37.124044600Z</date>
+  <millis>1641511837124</millis>
+  <nanos>44600</nanos>
+  <sequence>2</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>18</thread>
+  <message>Added new user called: blada</message>
+</record>
+<record>
+  <date>2022-01-06T23:30:37.125044600Z</date>
+  <millis>1641511837125</millis>
+  <nanos>44600</nanos>
+  <sequence>3</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>18</thread>
+  <message>Added new user called: dupa</message>
+</record>
+<record>
+  <date>2022-01-06T23:30:38.986578300Z</date>
+  <millis>1641511838986</millis>
+  <nanos>578300</nanos>
+  <sequence>4</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>18</thread>
+  <message>dupa join channel 1</message>
+</record>
+<record>
+  <date>2022-01-06T23:31:17.011456100Z</date>
+  <millis>1641511877011</millis>
+  <nanos>456100</nanos>
+  <sequence>5</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>removed thread in catch method: dupa more info: Thread[Thread-1,5,main]</message>
+</record>
+<record>
+  <date>2022-01-06T23:31:17.031403400Z</date>
+  <millis>1641511877031</millis>
+  <nanos>403400</nanos>
+  <sequence>6</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>removed thread in catch method: dupa more info: Thread[Thread-0,5,main]</message>
+</record>
+<record>
+  <date>2022-01-06T23:31:26.105158100Z</date>
+  <millis>1641511886105</millis>
+  <nanos>158100</nanos>
+  <sequence>7</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>19</thread>
+  <message>Added new user called: siema</message>
+</record>
+<record>
+  <date>2022-01-06T23:31:27.646584800Z</date>
+  <millis>1641511887646</millis>
+  <nanos>584800</nanos>
+  <sequence>8</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>19</thread>
+  <message>siema join channel 1</message>
+</record>
+<record>
+  <date>2022-01-06T23:31:37.599293500Z</date>
+  <millis>1641511897599</millis>
+  <nanos>293500</nanos>
+  <sequence>9</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>20</thread>
+  <message>Added new user called: lk</message>
+</record>
+<record>
+  <date>2022-01-06T23:31:37.600292100Z</date>
+  <millis>1641511897600</millis>
+  <nanos>292100</nanos>
+  <sequence>10</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>20</thread>
+  <message>Added new user called: siema</message>
+</record>
+<record>
+  <date>2022-01-06T23:32:05.238863600Z</date>
+  <millis>1641511925238</millis>
+  <nanos>863600</nanos>
+  <sequence>11</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>removed thread in catch method: siema more info: Thread[Thread-2,5,main]</message>
+</record>
+<record>
+  <date>2022-01-06T23:32:05.262800Z</date>
+  <millis>1641511925262</millis>
+  <nanos>800000</nanos>
+  <sequence>12</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>removed thread in catch method: siema more info: Thread[Thread-3,5,main]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-06T23:32:18.505655500Z</date>
+  <millis>1641511938505</millis>
+  <nanos>655500</nanos>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>19</thread>
+  <message>Added new user called: lol</message>
+</record>
+<record>
+  <date>2022-01-06T23:32:19.469593Z</date>
+  <millis>1641511939469</millis>
+  <nanos>593000</nanos>
+  <sequence>1</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>19</thread>
+  <message>lol join channel lol</message>
+</record>
+<record>
+  <date>2022-01-06T23:32:34.976131300Z</date>
+  <millis>1641511954976</millis>
+  <nanos>131300</nanos>
+  <sequence>2</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>20</thread>
+  <message>Added new user called: k</message>
+</record>
+<record>
+  <date>2022-01-06T23:33:58.567210100Z</date>
+  <millis>1641512038567</millis>
+  <nanos>210100</nanos>
+  <sequence>3</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>20</thread>
+  <message>Added new user called: lol</message>
+</record>
+<record>
+  <date>2022-01-06T23:33:58.569203100Z</date>
+  <millis>1641512038569</millis>
+  <nanos>203100</nanos>
+  <sequence>4</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>22</thread>
+  <message>Added new user called: e</message>
+</record>
+<record>
+  <date>2022-01-06T23:33:58.570201100Z</date>
+  <millis>1641512038570</millis>
+  <nanos>201100</nanos>
+  <sequence>5</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>removed thread in catch method: lol more info: Thread[Thread-0,5,main]</message>
+</record>
+<record>
+  <date>2022-01-06T23:33:58.570201100Z</date>
+  <millis>1641512038570</millis>
+  <nanos>201100</nanos>
+  <sequence>6</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>removed thread in catch method: null more info: Thread[Thread-2,5,main]</message>
+</record>
+<record>
+  <date>2022-01-06T23:33:58.571198400Z</date>
+  <millis>1641512038571</millis>
+  <nanos>198400</nanos>
+  <sequence>7</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>removed thread in catch method: lol more info: Thread[Thread-1,5,main]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-06T23:35:14.067171700Z</date>
+  <millis>1641512114067</millis>
+  <nanos>171700</nanos>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>19</thread>
+  <message>Added new user called: e</message>
+</record>
+<record>
+  <date>2022-01-06T23:35:15.505535300Z</date>
+  <millis>1641512115505</millis>
+  <nanos>535300</nanos>
+  <sequence>1</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>19</thread>
+  <message>e join channel e</message>
+</record>
+<record>
+  <date>2022-01-06T23:36:12.824368900Z</date>
+  <millis>1641512172824</millis>
+  <nanos>368900</nanos>
+  <sequence>2</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>20</thread>
+  <message>Added new user called: k</message>
+</record>
+<record>
+  <date>2022-01-06T23:41:47.994087700Z</date>
+  <millis>1641512507994</millis>
+  <nanos>87700</nanos>
+  <sequence>3</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>20</thread>
+  <message>Added new user called: e</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-06T23:42:02.178225100Z</date>
+  <millis>1641512522178</millis>
+  <nanos>225100</nanos>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>17</thread>
+  <message>Added new user called: e</message>
+</record>
+<record>
+  <date>2022-01-06T23:42:04.306147200Z</date>
+  <millis>1641512524306</millis>
+  <nanos>147200</nanos>
+  <sequence>1</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>17</thread>
+  <message>e join channel w</message>
+</record>
+<record>
+  <date>2022-01-06T23:42:13.510741700Z</date>
+  <millis>1641512533510</millis>
+  <nanos>741700</nanos>
+  <sequence>2</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>18</thread>
+  <message>Added new user called: w</message>
+</record>
+<record>
+  <date>2022-01-06T23:42:13.511775300Z</date>
+  <millis>1641512533511</millis>
+  <nanos>775300</nanos>
+  <sequence>3</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>18</thread>
+  <message>Added new user called: e</message>
+</record>
+<record>
+  <date>2022-01-06T23:42:25.003325600Z</date>
+  <millis>1641512545003</millis>
+  <nanos>325600</nanos>
+  <sequence>4</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>removed thread in catch method: e more info: Thread[Thread-0,5,main]</message>
+</record>
+<record>
+  <date>2022-01-06T23:42:27.515184800Z</date>
+  <millis>1641512547515</millis>
+  <nanos>184800</nanos>
+  <sequence>5</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>removed thread in catch method: e more info: Thread[Thread-1,5,main]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-06T23:44:52.459794100Z</date>
+  <millis>1641512692459</millis>
+  <nanos>794100</nanos>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>17</thread>
+  <message>Added new user called: siema</message>
+</record>
+<record>
+  <date>2022-01-06T23:44:53.684522600Z</date>
+  <millis>1641512693684</millis>
+  <nanos>522600</nanos>
+  <sequence>1</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>17</thread>
+  <message>siema join channel 1</message>
+</record>
+<record>
+  <date>2022-01-06T23:45:00.035171700Z</date>
+  <millis>1641512700035</millis>
+  <nanos>171700</nanos>
+  <sequence>2</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>18</thread>
+  <message>Added new user called: siema</message>
+</record>
+<record>
+  <date>2022-01-06T23:45:04.614772900Z</date>
+  <millis>1641512704614</millis>
+  <nanos>772900</nanos>
+  <sequence>3</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>18</thread>
+  <message>siema join channel 1</message>
+</record>
+<record>
+  <date>2022-01-06T23:45:49.107393Z</date>
+  <millis>1641512749107</millis>
+  <nanos>393000</nanos>
+  <sequence>4</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>removed thread in catch method: siema more info: Thread[Thread-0,5,main]</message>
+</record>
+<record>
+  <date>2022-01-06T23:45:49.130331800Z</date>
+  <millis>1641512749130</millis>
+  <nanos>331800</nanos>
+  <sequence>5</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>removed thread in catch method: siema more info: Thread[Thread-1,5,main]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-06T23:45:59.847798200Z</date>
+  <millis>1641512759847</millis>
+  <nanos>798200</nanos>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>19</thread>
+  <message>Added new user called: elo</message>
+</record>
+<record>
+  <date>2022-01-06T23:46:01.624231500Z</date>
+  <millis>1641512761624</millis>
+  <nanos>231500</nanos>
+  <sequence>1</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>19</thread>
+  <message>elo join channel 1</message>
+</record>
+<record>
+  <date>2022-01-06T23:51:20.493663300Z</date>
+  <millis>1641513080493</millis>
+  <nanos>663300</nanos>
+  <sequence>2</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>20</thread>
+  <message>Added new user called: elo</message>
+</record>
+<record>
+  <date>2022-01-06T23:51:20.495658Z</date>
+  <millis>1641513080495</millis>
+  <nanos>658000</nanos>
+  <sequence>3</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>removed thread in catch method: elo more info: Thread[Thread-0,5,main]</message>
+</record>
+<record>
+  <date>2022-01-06T23:51:20.498650100Z</date>
+  <millis>1641513080498</millis>
+  <nanos>650100</nanos>
+  <sequence>4</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>removed thread in catch method: elo more info: Thread[Thread-1,5,main]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-06T23:53:13.821791Z</date>
+  <millis>1641513193821</millis>
+  <nanos>791000</nanos>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>19</thread>
+  <message>Added new user called: 1</message>
+</record>
+<record>
+  <date>2022-01-06T23:53:15.245023Z</date>
+  <millis>1641513195245</millis>
+  <nanos>23000</nanos>
+  <sequence>1</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>19</thread>
+  <message>1 join channel 1</message>
+</record>
+<record>
+  <date>2022-01-06T23:53:44.971921Z</date>
+  <millis>1641513224971</millis>
+  <nanos>921000</nanos>
+  <sequence>2</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>20</thread>
+  <message>Added new user called: 2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-06T23:54:31.547769500Z</date>
+  <millis>1641513271547</millis>
+  <nanos>769500</nanos>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>17</thread>
+  <message>Added new user called: 11</message>
+</record>
+<record>
+  <date>2022-01-06T23:54:33.006613900Z</date>
+  <millis>1641513273006</millis>
+  <nanos>613900</nanos>
+  <sequence>1</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>17</thread>
+  <message>11 join channel 11</message>
+</record>
+<record>
+  <date>2022-01-06T23:54:37.276686700Z</date>
+  <millis>1641513277276</millis>
+  <nanos>686700</nanos>
+  <sequence>2</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>18</thread>
+  <message>Added new user called: 2</message>
+</record>
+<record>
+  <date>2022-01-06T23:54:39.431857100Z</date>
+  <millis>1641513279431</millis>
+  <nanos>857100</nanos>
+  <sequence>3</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>18</thread>
+  <message>2 join channel 1</message>
+</record>
+<record>
+  <date>2022-01-06T23:54:56.010834400Z</date>
+  <millis>1641513296010</millis>
+  <nanos>834400</nanos>
+  <sequence>4</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>19</thread>
+  <message>Added new user called: 3</message>
+</record>
+<record>
+  <date>2022-01-06T23:54:58.689298Z</date>
+  <millis>1641513298689</millis>
+  <nanos>298000</nanos>
+  <sequence>5</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setUpChannel</method>
+  <thread>19</thread>
+  <message>3 join channel 11</message>
+</record>
+<record>
+  <date>2022-01-06T23:55:09.582349900Z</date>
+  <millis>1641513309582</millis>
+  <nanos>349900</nanos>
+  <sequence>6</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>removed thread called 3 more info: Thread[Thread-2,5,main]</message>
+</record>
+<record>
+  <date>2022-01-06T23:55:28.170839300Z</date>
+  <millis>1641513328170</millis>
+  <nanos>839300</nanos>
+  <sequence>7</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>removed thread in catch method: 2 more info: Thread[Thread-1,5,main]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1250" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-06T23:59:38.387906400Z</date>
+  <millis>1641513578387</millis>
+  <nanos>906400</nanos>
+  <sequence>0</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>INFO</level>
+  <class>pwr.edu.Thread</class>
+  <method>setName</method>
+  <thread>16</thread>
+  <message>Added new user called: siema</message>
+</record>
+<record>
+  <date>2022-01-06T23:59:43.117333Z</date>
+  <millis>1641513583117</millis>
+  <nanos>333000</nanos>
+  <sequence>1</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>WARNING</level>
+  <class>pwr.edu.Thread</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>removed thread in catch method: siema more info: Thread[Thread-0,5,main]</message>
+</record>
+</log>
