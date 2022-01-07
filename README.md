@@ -1,5 +1,5 @@
 # ClientServerChat
-Simple chat which use Java sockets in implementation
+Simple chat which use Java socket.
 
 To use the app please first start the server
 After that run client 
