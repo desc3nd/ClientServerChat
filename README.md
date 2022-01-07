@@ -1,2 +1,2 @@
 # ClientServerChat
-Simple chat witch use Java sockets in implementation
+Simple chat which use Java sockets in implementation
